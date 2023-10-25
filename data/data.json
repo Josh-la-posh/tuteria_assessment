@@ -1,0 +1,143 @@
+{
+    "subjects" : [
+        {
+            "id": 1,
+            "name": "Coding",
+            "classes": [
+                {
+                    "id": 1,
+                    "title": "Intro to Web Development",
+                    "dates": "12th November - 18th February",
+                    "location": "Online"
+                },
+                {
+                    "id": 2,
+                    "title": "Intro to Frontend",
+                    "dates": "24th November - 30th January",
+                    "location": "Online"
+                },
+                {
+                    "id": 3,
+                    "title": "Intro to Backend",
+                    "dates": "1st February - 3rd April",
+                    "location": "Online"
+                },
+                {
+                    "id": 4,
+                    "title": "Intro to Mobile Development",
+                    "dates": "1st February - 17th June",
+                    "location": "Online"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "GMAT",
+            "classes": [
+                {
+                    "id": 1,
+                    "title": "GMAT Prep Course",
+                    "dates": "12th August - 18th December",
+                    "location": "Physical"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "IELTS",
+            "classes": [
+                {
+                    "id": 1,
+                    "title": "IELTS Prep Course",
+                    "dates": "17th August - 30th November",
+                    "location": "Physical"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "WAEC",
+            "classes": [
+                {
+                    "id": 1,
+                    "title": "English Language",
+                    "dates": "17th February - 30th May",
+                    "location": "Physical"
+                },
+                {
+                    "id": 2,
+                    "title": "Mathematics",
+                    "dates": "17th February - 30th May",
+                    "location": "Physical"
+                },
+                {
+                    "id": 3,
+                    "title": "Physics",
+                    "dates": "17th February - 30th May",
+                    "location": "Physical"
+                },
+                {
+                    "id": 4,
+                    "title": "Chemistry",
+                    "dates": "17th February - 30th May",
+                    "location": "Physical"
+                },
+                {
+                    "id": 5,
+                    "title": "Accounting",
+                    "dates": "17th February - 30th May",
+                    "location": "Physical"
+                },
+                {
+                    "id": 6,
+                    "title": "Commerce",
+                    "dates": "17th February - 30th May",
+                    "location": "Physical"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "JAMB",
+            "classes": [
+                {
+                    "id": 1,
+                    "title": "English Language",
+                    "dates": "17th January - 30th March",
+                    "location": "Physical"
+                },
+                {
+                    "id": 2,
+                    "title": "Mathematics",
+                    "dates": "17th January - 30th March",
+                    "location": "Physical"
+                },
+                {
+                    "id": 3,
+                    "title": "Physics",
+                    "dates": "17th January - 30th March",
+                    "location": "Physical"
+                },
+                {
+                    "id": 4,
+                    "title": "Chemistry",
+                    "dates": "17th January - 30th March",
+                    "location": "Physical"
+                },
+                {
+                    "id": 5,
+                    "title": "Accounting",
+                    "dates": "17th January - 30th March",
+                    "location": "Physical"
+                },
+                {
+                    "id": 6,
+                    "title": "Commerce",
+                    "dates": "17th January - 30th March",
+                    "location": "Physical"
+                }
+            ]
+        }
+
+    ]
+}
